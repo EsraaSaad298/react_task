@@ -246,6 +246,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     bottom: -60,
+    top: -5,
   },
   multicontainer: {
     flex: 1,
